@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  „Mein erste Blogpost mit Jekyll!“
+title:  „Mein erster Blogpost mit Jekyll!“
 date:   2014-09-11 22:37:16
 categories: jekyll update
 ---
