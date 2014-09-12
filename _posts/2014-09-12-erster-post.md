@@ -3,7 +3,7 @@ layout: post
 title: mein erster Post
 image:
   feature: abstract-3.jpg
-  credit: 
+  credit: Jonas
   creditlink: 
 share: true
 ---
