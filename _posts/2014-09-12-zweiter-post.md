@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mein zweiter Post
+title: Mein zweiter Post
 image:
   feature: abstract-5.jpg
 share: true
