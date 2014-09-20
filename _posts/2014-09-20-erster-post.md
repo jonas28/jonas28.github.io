@@ -8,7 +8,7 @@ image:
 share: true
 ---
 
-# Warum ein neues Blog!?
+# Ja genau, eines neues Blog!
 Seit Jahren überlege ich schon, ob ich mal wieder ein privates Blog anfangen sollte. Denn manchmal lassen sich nicht alle Gedanken in 140-Zeichen auf Twitter mitteilen. 
 
 Ich könnte jetzt natürlich auch ein öffentlichen Evernote Notizbuch nutzen, mein altes Tumblr wieder beleben und ein neues Template coden, oder einfach ganz schnell ein neues Wordpress aufsetzen. Ich habe ich der Vergangenheit auch einfach Medium genutzt wenn ich mal was längeres zu sagen hatte. Wie zum Beispiel meinen Artikel zum Thema „[Lean Publishing](medium.com/@jonas28/b34102f4878a)“.
@@ -33,6 +33,6 @@ Und tatsächlich bin ich fündig geworden: [Jekyll](http://jekyllrb.com/).
 
 
 # Der seltsame Fall des Dr. Jekyll und Mr. Hyde
-Es ist wirklich seltsam, Jekyll  vereint wirklich alles was mich momentan interessiert.:
+Es ist wirklich seltsam, Jekyll vereint wirklich alles was mich momentan interessiert.:
 - Man braucht keine Datenbank und kann die Artikel einfach als Markdown-Datei schreiben. 
 - Man kann die notwendigen Dateien auf Github hosten: http://jonas28.github.io.
