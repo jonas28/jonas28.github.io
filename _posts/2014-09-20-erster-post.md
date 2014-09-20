@@ -33,6 +33,7 @@ Und tatsächlich bin ich fündig geworden: [Jekyll](http://jekyllrb.com/).
 
 
 # Der seltsame Fall des Dr. Jekyll und Mr. Hyde
-Es ist wirklich seltsam, Jekyll vereint wirklich alles was mich momentan interessiert.:
+Es ist wirklich seltsam, Jekyll vereint wirklich alles was mich momentan interessiert:
+
 - Man braucht keine Datenbank und kann die Artikel einfach als Markdown-Datei schreiben. 
-- Man kann die notwendigen Dateien auf Github hosten: http://jonas28.github.io.
+- Man kann die notwendigen Dateien auf Github hosten: http://jonas28.github.io. Und so sind auch alle meine Änderungen und Entwicklungsschritte transparent auf [github](https://github.com/jonas28/jonas28.github.io/commits/master) zu sehen.
