@@ -20,9 +20,11 @@ Dafür nutzten viele Entwickler Git. Warum sollte das nicht auch für Autoren fu
 Momentan programmiere ich wieder recht viel. Und das passiert auch heute noch in der Regel über so richte echte Dateien, die auf einer Festplatte oder einen Server liegen. 
 
 Außerdem beschäftigte ich mich seit einiger Zeit mit dem Schreiben und führe das Blog [digital fitness](blogs.stern.de/digitalfitness/) auf stern.de. 
-Da ich gerade ziemlich viel zwischen Hamburg und Berlin im Zug sitze brauchte ich ein Schreibtool, dass auch bei beschissener Internetverbindung im Zug funktioniert. Ich habe das Programm [Writer Pro](http://writer.pro/) gefunden. Damit kann man total fokussiert schreiben und kann seine Texte als Markdown-Dateien speichern.
+Da ich gerade ziemlich viel zwischen Hamburg und Berlin im Zug sitze brauchte ich ein Schreibtool, dass auch bei beschissener Internetverbindung im Zug funktioniert. Ich habe das Programm [Writer Pro](http://writer.pro/) gefunden. Damit kann man total fokussiert schreiben und kann seine Texte als Markdown-Dateien speichern. 
 
-Wer noch nichts von Markdown gehört hat sollte ich den [neunetzpodcast 46](http://www.neunetz.com/2014/08/29/neunetzcast-46-markdown-galore/)
+Es ist super angenehm in Editoren wie Writer Pro zu schreiben. Das mache ich für meine Artikel auf stern.de auch. Mein Blog dort basiert allerdings auf Wordpress. Dummerweise habe ich bisher keine Möglichkeit gefunden meine Markdown-Dateien direkt als Wordpresspost zu speichern. Vor dem Veröffentlichen muss ich also die Inhalte per Copy & Paste ins Wordpress-Dashboard bringen. Und wenn ich meinen Text verändern möchte, geht das ganze von vorne los. Die doppelte Arbeit nervt und sowas ist immer fehleranfällig.
+
+Wer noch nichts von Markdown gehört hat, sollte ich den [neunetzpodcast 46](http://www.neunetz.com/2014/08/29/neunetzcast-46-markdown-galore/)
  anhören. Marcel Weiss spricht mit Johannes Kleske über Markdown, und über die Art und Weise, wie sie mit Text arbeiten.
 
 Und für Präsentation habe ich gerade das absolut geniale Programm [Deckset](http://decksetapp.com/) entdeckt. Damit kann man Präsentationen einfach als Markdown runterschreiben. 
