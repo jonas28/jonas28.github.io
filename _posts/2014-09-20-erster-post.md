@@ -11,7 +11,7 @@ share: true
 # Ja genau, eines neues Blog!
 Seit Jahren überlege ich schon, ob ich mal wieder ein privates Blog anfangen sollte. Denn manchmal lassen sich nicht alle Gedanken in 140-Zeichen auf Twitter mitteilen. 
 
-Ich könnte jetzt natürlich auch ein öffentlichen Evernote Notizbuch nutzen, mein altes Tumblr wieder beleben und ein neues Template coden, oder einfach ganz schnell ein neues Wordpress aufsetzen. Ich habe ich der Vergangenheit auch einfach Medium genutzt wenn ich mal was längeres zu sagen hatte. Wie zum Beispiel meinen Artikel zum Thema „[Lean Publishing](medium.com/@jonas28/b34102f4878a)“.
+Ich könnte jetzt natürlich auch ein öffentliches Evernote Notizbuch nutzen, mein altes Tumblr wieder beleben und ein neues Template coden, oder einfach ganz schnell ein neues Wordpress aufsetzen. Ich habe ich der Vergangenheit auch einfach Medium genutzt wenn ich mal was längeres zu sagen hatte. Wie zum Beispiel meinen Artikel zum Thema „[Lean Publishing](medium.com/@jonas28/b34102f4878a)“.
 
 Bei Schreiben dieses Artikels ist mit klar geworden, schnell Artikel zu schreiben möchte und diese dann in nach der Veröffentlichung immer weiter anpassen möchte. 
 Dafür nutzten viele Entwickler Git. Warum sollte das nicht auch für Autoren funktionieren? Git ist eine Versionsverwaltung für Dateien. Dateien das sind die Dinger, in denen man vor dem Boom des Web 2.0 Dinge gespeichert hat. Seit 2006 bin ich auch diverse Webservices umgestiegen und habe kaum noch mit Dateien gearbeitet. Meine Präsentation, Tabellenkalkulation oder Textdokumente liegen bei Google Docs. Meine Notizen bei Evernote und so habe ich inzwischen für nahezu jeden Alltagsproblem einen Service gefunden, der mir hilft. 
