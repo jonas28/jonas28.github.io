@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Mit Github auf Wordpress bloggen"
+image:
+  feature: abstract-3.jpg
+  credit: Jonas
+  creditlink: 
+
+---
+
 Ich bin auf der Suche nach einem Wordpress-Plugin, mit dem ich meine Artikel als Markdown-Datei in einen Github Repo erstelle und updaten kann.
 
 Bisher habe ich folgere Artikel und Plugins zu dem Thema gefunden:
